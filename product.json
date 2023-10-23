@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Alimento Gatos adulto",
+    "description": "alimento balanceado para gatos",
+    "price": 13000,
+    "thumbnail": "url",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "title": "Alimento perro",
+    "description": "alimento balanceado para perros",
+    "price": 18000,
+    "thumbnail": "url",
+    "stock": 12
+  }
+]
